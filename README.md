@@ -1,17 +1,17 @@
 ### Hello there! 👋
 
-My name is Scott Fitzpatrick and I am Computer Science undergraduate at Chapman University. I will be graduating in May 2022 and am actively pursuing a job.
+My name is Scott Fitzpatrick and I am computer science undergraduate at Chapman University. I will be graduating in May 2022 and am actively pursuing a job.
 
-- 😄 My primary interests are animation programming, computer graphics, game development, and general software development.
-- 🔭 I am currently working on 3D character rigging/animation within Blender, animation systems within Unity, and C++ skills.
+- :mag_right: My primary interests are animation programming, computer graphics, game development, and general software development.
+- 🖥️ I am currently working on 3D character rigging/animation within Blender, animation systems within Unity, and C++ skills.
 - 🌱 I’m currently learning computer graphics, database management, and compiler construction.
 - 💬 Ask me about color grading/lighting, photogrammetry, linear algebra, and C++.
 - 📫 How to reach me: scott@fitzpatrick.net
 - ⚡ Fun fact: I cut my own hair :scissors:.
 
----
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/) and [art portfolio](https://scottfitzpatrick.pb.gallery/). Many of my programming assignments & projects can also be found below ⬇️.
 
-### Top Projects
+### Top Projects & Assignments
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=CPSC350_SP21_ASSIGNMENT3_FITZPATRICK&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/CPSC350_SP21_ASSIGNMENT3_FITZPATRICK)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=mnrsmDFdetect&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/mnrsmDFdetect)
@@ -21,6 +21,8 @@ My name is Scott Fitzpatrick and I am Computer Science undergraduate at Chapman 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=CPSC350_SP21_ASSIGNMENT5_FITZPATRICK&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/CPSC350_SP21_ASSIGNMENT5_FITZPATRICK)
 
 ---
+
+<!-- ### Top Languages, Technologies, & Tools -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfitzpatrickchapman&layout=compact&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/sfitzpatrickchapman)
 
