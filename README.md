@@ -7,7 +7,7 @@ My name is Scott Fitzpatrick and I am computer science undergraduate at Chapman 
 - 🌱 I’m currently learning computer graphics, database management, and compiler construction.
 - 💬 Ask me about color grading/lighting, photogrammetry, linear algebra, and C++.
 - 📫 How to reach me: scott@fitzpatrick.net
-- ⚡ Fun fact: I cut my own hair :scissors:.
+- ⚡ Fun fact: English is my second language and C++ is my first :D
 
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/) and [art portfolio](https://scottfitzpatrick.pb.gallery/). Many of my programming assignments & projects can also be found below ⬇️.
 
