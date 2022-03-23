@@ -5,7 +5,7 @@ My name is Scott Fitzpatrick and I am computer science undergraduate at Chapman 
 - :mag_right: My primary interests are animation programming, computer graphics, game development, and general software development.
 - 🖥️ I am currently working on 3D character rigging/animation within Blender, animation systems within Unity, and C++ skills.
 - 🌱 I’m currently learning computer graphics, database management, and compiler construction.
-- 💬 Ask me about color grading/lighting, photogrammetry, linear algebra, and C++.
+- 💬 Ask me about color grading/lighting, Blender, linear algebra, and C++.
 - 📫 How to reach me: scott@fitzpatrick.net
 - ⚡ Fun fact: English is my second language and C++ is my first.
 
