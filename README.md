@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is Scott Fitzpatrick and I am computer science undergraduate at Chapman University. I will be graduating in May 2022 and am actively pursuing a job.
+My name is Scott Fitzpatrick and I am computer science graduate at Chapman University. I graduated in May 2022 and am currently working as a reserach assistant/Unity developer for a motion data application built off of Google Tiltbrush.
 
 - :mag_right: My primary interests are animation programming, computer graphics, game development, and general software development.
 - 🖥️ I am currently working on 3D character rigging/animation within Blender, animation systems within Unity, and C++ skills.
