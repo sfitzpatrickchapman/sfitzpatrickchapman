@@ -1,13 +1,12 @@
 ### Hello there! 👋
 
-My name is Scott Fitzpatrick and I recently graduated from Chapman University with a computer science degree in May 2022. During this summer, I worked as a research assistant/Unity developer to create research-capable visualization software for VR motion data.
+My name is Scott Fitzpatrick and I recently graduated from Chapman University with a computer science degree in May 2022. During the summer, I worked as a research assistant/Unity developer to create research-capable visualization software for VR motion data.
 
 - :mag_right: My primary interests are game engines, computer graphics, game development, and general software development.
 - 🖥️ I am currently working on a Unity music visualizer that uses MIDI tracks as input instead of general audio files.
 - 🌱 I am actively expanding my knowledge about Unity's capabilities as not only a game engine but a sandbox for a variety of applications.
 - 💬 Ask me about Unity, Blender, and C#.
 - 📫 How to reach me: scott@fitzpatrick.net
-- ⚡ Fun fact: English is my second language and C++ is my first.
 
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/) and [art portfolio](https://scottfitzpatrick.pb.gallery/). Many of my programming assignments & projects can also be found below ⬇️.
 
