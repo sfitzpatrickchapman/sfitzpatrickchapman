@@ -4,7 +4,7 @@ My name is Scott Fitzpatrick and I recently graduated from Chapman University wi
 
 - :mag_right: My primary interests are game engines, computer graphics, game development, and general software development.
 - 🖥️ I am currently working on a Unity music visualizer that uses MIDI tracks as input instead of general audio files.
-- 🌱 I am actively expanding my knowledge about Unity's capabilities as not only a game engine but a sandbox for a variety of applications.
+- 🌱 I am actively expanding my knowledge about Unity's capabilities.
 - 💬 Ask me about Unity, Blender, and C#.
 - 📫 How to reach me: scott@fitzpatrick.net
 
