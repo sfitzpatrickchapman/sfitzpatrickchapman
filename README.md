@@ -12,7 +12,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatri
 
 ### Top Projects & Assignments
 
-[![Readme Card](https://github-readme-stat-git-masterstaa-sfitzpatrickchapman.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=RetroRoadVisualizer&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/RetroRoadVisualizer)
+[![Readme Card](https://github-readme-stat-git-masterstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=RetroRoadVisualizer&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/RetroRoadVisualizer)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=CPSC350_SP21_ASSIGNMENT3_FITZPATRICK&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/CPSC350_SP21_ASSIGNMENT3_FITZPATRICK)
 
