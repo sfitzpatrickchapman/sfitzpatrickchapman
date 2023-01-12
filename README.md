@@ -13,15 +13,10 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatri
 ### Top Projects & Assignments
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=RetroRoadVisualizer&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/RetroRoadVisualizer)
-
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=CPSC350_SP21_ASSIGNMENT3_FITZPATRICK&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/CPSC350_SP21_ASSIGNMENT3_FITZPATRICK)
-
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=mnrsmDFdetect&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/mnrsmDFdetect)
-
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=CPSC354_Report_SFitzpatrick&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/CPSC354_Report_SFitzpatrick)
-
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=SFitzpatrick_SkyDiver&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/SFitzpatrick_SkyDiver)
-
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=CPSC350_SP21_ASSIGNMENT7_FITZPATRICK&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/CPSC350_SP21_ASSIGNMENT7_FITZPATRICK)
 
 ---
@@ -32,7 +27,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatri
 
 ---
 
-
+![Snake animation](https://github.com/sfitzpatrickchapman/sfitzpatrickchapman/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
