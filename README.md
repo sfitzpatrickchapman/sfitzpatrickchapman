@@ -23,11 +23,10 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatri
 
 <!-- ### Top Languages, Technologies, & Tools -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sfitzpatrickchapman&layout=compact&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/sfitzpatrickchapman)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sfitzpatrickchapman&layout=compact&theme=radical&show_icons=true&hide=shaderlab,tex,mathematica)](https://github.com/sfitzpatrickchapman/sfitzpatrickchapman)
 
 ---
 
-![Snake animation](https://github.com/sfitzpatrickchapman/sfitzpatrickchapman/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
