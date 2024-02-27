@@ -1,14 +1,6 @@
-### Howdy! 👋
-
 My name is Scott Fitzpatrick. I had the privilege to study computer science at Chapman University's Fowler School of Engineering and I graduated in May 2022. Post-graudation, I worked with Dr. Trudi Qi on a handful of exciting VR applications within Unity and Unreal Engine 5. We created special 3D data visualization software and physical rehab VR environments. I currently work as a contractor for NVIDIA's Lightspeed Stusios working as a Python Software Engineer focused on 2D/3D Content and UI Development.
 
-- :mag_right: My primary interests are game engines, computer graphics, game development, general software development, and visual AI prompting.
-- 🖥️ I am currently working on projects at NVIDIA.
-- 🌱 I am actively expanding my knowledge about NVIDIA Omniverse.
-- 💬 Ask me about Unity, Unreal Engine 5, Blender, and C#.
-- 📫 How to reach me: scott@fitzpatrick.net
-
-Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/) and [art portfolio](https://scottfitzpatrick.pb.gallery/). Many of my programming assignments & projects can also be found below ⬇️.
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/) and [art portfolio](https://scottfitzpatrick.pb.gallery/). Many of my older programming assignments & projects can also be found below ⬇️.
 
 ### Top Projects & Old Assignments
 
