@@ -1,8 +1,14 @@
-My name is Scott Fitzpatrick. I had the privilege to study computer science at Chapman University's Fowler School of Engineering and I graduated in May 2022. Post-graudation, I worked with Dr. Trudi Qi on a handful of exciting VR applications within Unity and Unreal Engine 5. We created special 3D data visualization software and physical rehab VR environments. I currently work as a contractor for NVIDIA's Lightspeed Studios working as a Python Software Engineer focused on 2D/3D Content and UI Development. I'm looking forward to continuing my growth with 3D engines and AI driven software.
+- Software Engineer @ NVIDIA Lightspeed Studios
+- Chapman University alumnus
+  - Bachelor in Computer Science from the Fowler School of Engineering (2022)
+  - Research assistant on projects such as VRMoVi for Dr. Trudi Qi
+- Most of my technical work experience has revolved around 3D engines, VR/AR, 2D/3D UI, and 2D/3D asset pipelines :D
 
-Feel free to check out my [LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/) and [art portfolio](https://scottfitzpatrick.pb.gallery/). Many of my older programming assignments & projects can also be found below ⬇️.
+[LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/)
 
-### Top Projects & Old Assignments
+[Art Portfolio](https://scottfitzpatrick.pb.gallery/)
+
+### Old Projects & University Assignments
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=RetroRoadVisualizer&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/RetroRoadVisualizer)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sfitzpatrickchapman&repo=CPSC350_SP21_ASSIGNMENT3_FITZPATRICK&theme=radical&show_icons=true)](https://github.com/sfitzpatrickchapman/CPSC350_SP21_ASSIGNMENT3_FITZPATRICK)
