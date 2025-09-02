@@ -2,7 +2,7 @@
 - Chapman University alumnus
   - Bachelor in Computer Science from the Fowler School of Engineering (2022)
   - Research assistant on projects such as VRMoVi for Dr. Trudi Qi
-- Most of my technical work experience has revolved around 3D engines, VR/AR, 2D/3D UI, and 2D/3D asset pipelines :D
+- Most of my technical work experience has revolved around 3D engines, 2D/3D asset pipelines, and generative AI
 
 [LinkedIn](https://www.linkedin.com/in/scott-fitzpatrick-/)
 
